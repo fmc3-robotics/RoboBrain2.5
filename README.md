@@ -89,7 +89,7 @@ In particular, it supports key real-world embodied intelligence capabilities, in
 ```bash
 # clone repo.
 git clone https://github.com/FlagOpen/RoboBrain2.0.git
-cd RoboBrain
+cd RoboBrain2.0
 
 # build conda env.
 conda create -n robobrain2 python=3.10
@@ -399,6 +399,7 @@ If you find this project useful, welcome to cite us.
     year={2024}
 }
 ```
+
 
 
 
