@@ -153,6 +153,7 @@ model = UnifiedInference("BAAI/RoboBrain2.5-8B-NV")
 prompt = "the person wearing a red hat"
 image = "./assets/demo/grounding.jpg"
 
+# Visualization results will be saved to ./result, if `plot=True`.
 pred = model.inference(prompt, image, task="grounding", plot=True, do_sample=False)
 print(f"Prediction:\n{pred}")
 ```
@@ -167,6 +168,7 @@ model = UnifiedInference("BAAI/RoboBrain2.5-8B-NV")
 prompt = "the affordance area for holding the cup"
 image = "./assets/demo/affordance.jpg"
 
+# Visualization results will be saved to ./result, if `plot=True`.
 pred = model.inference(prompt, image, task="pointing", plot=True, do_sample=False)
 print(f"Prediction:\n{pred}")
 ```
@@ -181,6 +183,7 @@ model = UnifiedInference("BAAI/RoboBrain2.5-8B-NV")
 prompt = "Identify spot within the vacant space that's between the two mugs"
 image = "./assets/demo/pointing.jpg"
 
+# Visualization results will be saved to ./result, if `plot=True`.
 pred = model.inference(prompt, image, task="pointing", plot=True, do_sample=True)
 print(f"Prediction:\n{pred}")
 ```
@@ -195,6 +198,7 @@ model = UnifiedInference("BAAI/RoboBrain2.5-8B-NV")
 prompt_1 = "Identify spot within toilet in the house"
 image = "./assets/demo/navigation.jpg"
 
+# Visualization results will be saved to ./result, if `plot=True`.
 pred = model.inference(prompt_1, image, task="pointing", plot=True, do_sample=True)
 print(f"Prediction:\n{pred}")
 
@@ -202,6 +206,7 @@ print(f"Prediction:\n{pred}")
 prompt_2 = "Identify spot within the sofa in the house"
 image = "./assets/demo/navigation.jpg"
 
+# Visualization results will be saved to ./result, if `plot=True`.
 pred = model.inference(prompt_2, image, task="pointing", plot=True, do_sample=True)
 print(f"Prediction:\n{pred}")
 ```
@@ -216,6 +221,7 @@ model = UnifiedInference("BAAI/RoboBrain2.5-8B-NV")
 prompt = "reach for the banana on the plate"
 image = "./assets/demo/trajectory.jpg"
 
+# Visualization results will be saved to ./result, if `plot=True`.
 pred = model.inference(prompt, image, task="trajectory", plot=True, do_sample=False)
 print(f"Prediction:\n{pred}")
 ```
