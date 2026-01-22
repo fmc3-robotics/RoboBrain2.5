@@ -289,6 +289,13 @@ RoboBrain2.5 is also compatible with the official training code for Qwen3VL. Ple
 If you find this project useful, welcome to cite us.
 ```bib
 
+@article{tan2026robobrain25depthsight,
+  title={RoboBrain 2.5: Depth in Sight, Time in Mind}, 
+  author={Huajie Tan and Enshen Zhou and Zhiyu Li and Yijie Xu and Yuheng Ji and Xiansheng Chen and Cheng Chi and Pengwei Wang and Huizhu Jia and Yulong Ao and Mingyu Cao and Sixiang Chen and Zhe Li and Mengzhen Liu and Zixiao Wang and Shanyu Rong and Yaoxu Lyu and Zhongxia Zhao and Peterson Co and Yibo Li and Yi Han and Shaoxuan Xie and Guocai Yao and Songjing Wang and Leiduo Zhang and Xi Yang and Yance Jiao and Donghai Shi and Kunchang Xie and Shaokai Nie and Chunlei Men and Yonghua Lin and Zhongyuan Wang and Tiejun Huang and Shanghang Zhang},
+  journal={arXiv preprint arXiv:2601.14352},
+  year={2026}
+}
+
 @article{tan2025robo,
   title={Robo-Dopamine: General Process Reward Modeling for High-Precision Robotic Manipulation},
   author={Tan, Huajie and Chen, Sixiang and Xu, Yijie and Wang, Zixiao and Ji, Yuheng and Chi, Cheng and Lyu, Yaoxu and Zhao, Zhongxia and Chen, Xiansheng and Co, Peterson and others},
