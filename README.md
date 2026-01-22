@@ -286,8 +286,8 @@ If you find this project useful, welcome to cite us.
 ```bib
 
 @article{tan2026robobrain25depthsight,
-  title={RoboBrain 2.5: Depth in Sight, Time in Mind}, 
-  author={Huajie Tan and Enshen Zhou and Zhiyu Li and Yijie Xu and Yuheng Ji and Xiansheng Chen and Cheng Chi and Pengwei Wang and Huizhu Jia and Yulong Ao and Mingyu Cao and Sixiang Chen and Zhe Li and Mengzhen Liu and Zixiao Wang and Shanyu Rong and Yaoxu Lyu and Zhongxia Zhao and Peterson Co and Yibo Li and Yi Han and Shaoxuan Xie and Guocai Yao and Songjing Wang and Leiduo Zhang and Xi Yang and Yance Jiao and Donghai Shi and Kunchang Xie and Shaokai Nie and Chunlei Men and Yonghua Lin and Zhongyuan Wang and Tiejun Huang and Shanghang Zhang},
+  title={RoboBrain 2.5: Depth in Sight, Time in Mind},
+  author={Tan, Huajie and Zhou, Enshen and Li, Zhiyu and Xu, Yijie and Ji, Yuheng and Chen, Xiansheng and Chi, Cheng and Wang, Pengwei and Jia, Huizhu and Ao, Yulong and Cao, Mingyu and Chen, Sixiang and Li, Zhe and Liu, Mengzhen and Wang, Zixiao and Rong, Shanyu and Lyu, Yaoxu and Zhao, Zhongxia and Co, Peterson and Li, Yibo and Han, Yi and Xie, Shaoxuan and Yao, Guocai and Wang, Songjing and Zhang, Leiduo and Yang, Xi and Jiao, Yance and Shi, Donghai and Xie, Kunchang and Nie, Shaokai and Men, Chunlei and Lin, Yonghua and Wang, Zhongyuan and Huang, Tiejun and Zhang, Shanghang},
   journal={arXiv preprint arXiv:2601.14352},
   year={2026}
 }
